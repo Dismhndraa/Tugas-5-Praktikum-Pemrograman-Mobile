@@ -22,7 +22,6 @@ class HomePage extends StatelessWidget {
         backgroundColor: Colors.blue,
       ),
       body: Center(
-        // ✅ BIKIN KE TENGAH LAYAR
         child: Padding(
           padding: const EdgeInsets.all(16),
           child: Column(
